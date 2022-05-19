@@ -1,4 +1,5 @@
 ipykernel
+matplotlib
 numpy
 https://github.com/OpenTrafficCam/downloads/blob/master/GDAL-3.4.3-cp39-cp39-win_amd64.whl?raw=true
 # For rasterio you may need to first install "Desktop development with C++" from 
